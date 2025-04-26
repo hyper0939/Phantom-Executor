@@ -1,4 +1,4 @@
-# Phantom-Executor – The Ultimate Roblox Executor
+# Phantom Executor – The Ultimate Roblox Executor
 
 What We Offer:
 * Level 8 Executor for Roblox Windows
